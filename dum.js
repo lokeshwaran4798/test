@@ -1,1 +1,1 @@
-somecode
+console.log('some code')
